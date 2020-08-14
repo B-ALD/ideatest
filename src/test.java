@@ -1,3 +1,3 @@
-public class test {
-
+public interface test {
+    void so();
 }
